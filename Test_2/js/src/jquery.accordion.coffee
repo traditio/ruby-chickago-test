@@ -1,4 +1,4 @@
-#SimAccordion plugin
+#Simple Horizontal Accordion plugin
 #Author: Dmitri Patrakov <traditio@gmail.com>
 #
 #Usage:
