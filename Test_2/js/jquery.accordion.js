@@ -20,7 +20,6 @@
       content = $(ev.target).next(options.accordionContents);
       if (content.is(':hidden')) {
         element.find(options.accordionContents).not(content).slideUp(options.slideDuration);
-        console.log('options.slideDuration', options.slideDuration);
         return content.slideToggle(options.slideDuration);
       }
     };
